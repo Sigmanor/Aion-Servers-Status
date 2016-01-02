@@ -2,7 +2,7 @@
 
 Simple rainmeter skin to display the Aion NA/EU servers status.
 
-![](http://i.imgur.com/VYfCty2.png)  
+![](http://i.imgur.com/aaBjJyt.png)  
 
 # Quick Links
 
